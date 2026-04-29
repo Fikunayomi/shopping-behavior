@@ -8,10 +8,11 @@ What are 6 analytical questions you can ask about this dataset?
 1. Which gender spends the most on average?
 -1.Which age groups make the largest purchases?
 1. Which payment methods are most common among customers?
+1. What are the most popular colors by season?
 1. Which states have the highest total purchase amounts?
 1. ** Are repeat customers spending more than first-time or less frequent shoppers?
 1. Which shipping type is used most often?
-1. What are the most popular colors by season?
+
 1. Does frequency of purchases relate to how much a customer spends?
 
 
